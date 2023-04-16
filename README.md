@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/52732au13tab44g3?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-3-1-films)
 
 Рейтинг фильмов
 ===
