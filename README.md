@@ -1,5 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/sysgbfv4nxtqgcy3?svg=true)](https://ci.appveyor.com/project/HelgaRoosh/ra-3-2-listing)
 
+https://helgaroosh.github.io/Ra_3_2_listing/
+
 Список предложений
 ===
 
